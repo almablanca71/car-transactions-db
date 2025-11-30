@@ -1,1 +1,2 @@
-hola 
+ hola 
+select * from transacciones ;
