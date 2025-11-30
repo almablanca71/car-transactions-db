@@ -1,2 +1,2 @@
- hola 
-select * from transacciones ;
+
+
